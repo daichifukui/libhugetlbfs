@@ -1,3 +1,9 @@
+libhugetlbfs (2.23-5) unstable; urgency=medium
+
+  * d/patches: add a new patch for morecore issue (Closes: #1017324)
+
+ -- Fukui Daichi <a.dog.will.talk@akane.waseda.jp>  Mon, 05 Sep 2022 14:17:01 +0000
+
 libhugetlbfs (2.23-4) unstable; urgency=medium
 
   [ Simon Josefsson ]
